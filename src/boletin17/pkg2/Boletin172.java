@@ -9,7 +9,7 @@ public class Boletin172 {
         //num.cargarArray();
         //num.visualizar();
         //Ejercicio 2
-        DAM clase = new DAM();
+        //DAM clase = new DAM();
         //clase.calcularAprobados();
         //clase.calcularSuspensos();
         //clase.notaMedia();
@@ -18,8 +18,12 @@ public class Boletin172 {
         //clase.visualizarNombreyNota("Diego");
         //clase.visualizarporTeclado();
         //clase.visualizarAprobados();
-        clase.ordenar();
-        clase.visualizar();
+        //clase.ordenar();
+        //clase.visualizar();
+        //Ejercicio 4
+        NIF dni = new NIF();
+        dni.calcularNif(56478215);
+        
                 
     }
     
