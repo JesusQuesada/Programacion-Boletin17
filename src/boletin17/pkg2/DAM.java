@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class DAM {
 
     int[] notas = {6, 4, 8, 7};
-    String[] nombres = {"Mario", "Marta", "Araceli", "Diego"};
+    String[] nombres = {"Juan", "Jose", "Manuel", "Luis"};
     int aprobados = 0;
     int suspensos = 0;
 
